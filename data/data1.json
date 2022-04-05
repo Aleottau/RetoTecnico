@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "question": "¿Cual de las siguientes opciones no es un editos de codigo?",
+      "choices": ["vim", "Vscode", "emacs", "word"],
+      "answer": "word"
+    },
+    {
+      "question": "¿Cual de las siguientes opciones no es un editos de codigo?",
+      "choices": ["vim", "Vscode", "emacs", "word"],
+      "answer": "word"
+    }
+  ]
+}
